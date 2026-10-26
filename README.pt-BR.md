@@ -1,5 +1,7 @@
 # GHSA-g48h-h5pc-396j — Path traversal no LaraDashboard com exclusão/escrita arbitrária (RCE)
 
+> CVE atribuída: **[CVE-2026-90932](https://www.cve.org/CVERecord?id=CVE-2026-90932)**. O repositório CVE mantido está em [capivara-research/CVE-2026-90932](https://github.com/capivara-research/CVE-2026-90932).
+
 [English](README.md) · [Advisory oficial](https://github.com/laradashboard/laradashboard/security/advisories/GHSA-g48h-h5pc-396j)
 
 Evidência pública e material seguro de reprodução local para uma vulnerabilidade de path traversal no gerenciamento de backups de atualização do LaraDashboard.
